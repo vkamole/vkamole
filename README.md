@@ -1,12 +1,19 @@
-# 👋 Hello, I'm Victor Kamole! 
+<h1 align="center">👋 Hello, I'm Victor Kamole!</h1>
+<h3 align="center">Frontend Developer | React & Next.js Enthusiast | UI/UX Lover</h3>
 
-### Frontend Developer | React & Next.js Enthusiast | UI/UX Lover
+<p align="center">
+  <a href="https://twitter.com/victorkamole" target="blank">
+    <img src="https://img.shields.io/twitter/follow/victorkamole?style=social" alt="Twitter Follow"/>
+  </a>
+  <a href="https://github.com/vkamole" target="blank">
+    <img src="https://img.shields.io/github/followers/vkamole?label=Follow%20%40vkamole&style=social" alt="GitHub Follow"/>
+  </a>
+  <a href="https://linkedin.com/in/victorkamole" target="blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue" alt="LinkedIn"/>
+  </a>
+</p>
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/victorkamole?style=social)](https://twitter.com/victorkamole)
-[![GitHub Follow](https://img.shields.io/github/followers/vkamole?label=Follow%20%40vkamole&style=social)](https://github.com/vkamole)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://linkedin.com/in/victorkamole)
-
-## 🚀 About Me
+<h2 align="center">🚀 About Me</h2>
 
 ```javascript
 const vkamole = {
@@ -20,7 +27,7 @@ const vkamole = {
 };
 ```
 
-## 🔥 My Coding Stats
+<h2 align="center">🔥 My Coding Stats</h2>
 
 <!-- GitHub Stats -->
 <p align="center">
@@ -33,7 +40,7 @@ const vkamole = {
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=vkamole&theme=radical&hide_border=true" />
 </p>
 
-## 🛠 Tech Stack
+<h2 align="center">🛠 Tech Stack</h2>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
@@ -43,22 +50,26 @@ const vkamole = {
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 </p>
 
-## 🌱 Current Learning Path
+<h2 align="center">🌱 Current Learning Path</h2>
 
-- Mastering Next.js App Router
-- Advanced React Patterns
-- Web Performance Optimization
+<p align="center">
+- Mastering Next.js App Router<br>
+- Advanced React Patterns<br>
+- Web Performance Optimization<br>
 - TypeScript Deep Dive
+</p>
 
-## 💞️ Collaboration Interests
+<h2 align="center">💞️ Collaboration Interests</h2>
 
-I'm excited to collaborate on:
-- Open source frontend projects
-- Modern React/Next.js applications
-- UI component libraries
+<p align="center">
+I'm excited to collaborate on:<br>
+- Open source frontend projects<br>
+- Modern React/Next.js applications<br>
+- UI component libraries<br>
 - Jamstack websites
+</p>
 
-## 📫 Reach Me Everywhere
+<h2 align="center">📫 Reach Me Everywhere</h2>
 
 <p align="center">
   <a href="https://twitter.com/victorkamole">
@@ -72,18 +83,8 @@ I'm excited to collaborate on:
   </a>
 </p>
 
-## ✨ Fun Dev Card
+<h2 align="center">✨ Fun Dev Card</h2>
 
 <p align="center">
   <img src="https://awesome-github-stats.azurewebsites.net/user-stats/vkamole?cardType=github&theme=radical" />
 </p>
-```
-
-## Features included:
-1. **Dynamic GitHub Stats** - Shows your contributions and top languages
-2. **Streak Stats** - Displays your coding streak
-3. **Tech Stack Badges** - Visual representation of your skills
-4. **JavaScript Object** - Creative way to showcase your profile
-5. **Social Media Links** - With attractive badges
-6. **Consistent Theme** - Radical color theme for all graphics
-7. **Mobile Responsive** - Looks good on all devices
