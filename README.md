@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hello, I'm Victor Kamole!</h1>
-<h3 align="center">Frontend Developer | React & Next.js Enthusiast | UI/UX Lover</h3>
+<h3 align="center">Frontend Developer | React & Next.js  | UI/UX</h3>
 
 <p align="center">
   <a href="https://twitter.com/victorkamole" target="blank">
